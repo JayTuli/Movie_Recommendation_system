@@ -3,3 +3,4 @@
 To show the recommended movies according to your search
 
 used two data sets imported from Kaggle ("https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata")
+# add some other functionality also, like emotion detection
